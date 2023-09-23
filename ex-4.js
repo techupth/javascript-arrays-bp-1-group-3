@@ -3,8 +3,9 @@
 // Start coding here
 const student = {
   name: "John Doe",
+  age: 18,
   grade: 12,
-  subjects: ["Math", "Science", "History"],
+  subjects: ["Math ", "Science ", "History"],
 };
 
 console.log("Student Name: " + stdent.name);
